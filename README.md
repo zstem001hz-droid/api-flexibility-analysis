@@ -5,7 +5,8 @@ A written reflection comparing REST and GraphQL API design philosophies, analyzi
 ## Resources
 
 - [GraphQL vs REST: A Comprehensive Comparison — Hygraph](https://hygraph.com/blog/graphql-vs-rest-apis) *(Article)*
-- [Is GraphQL Better Than REST? A Comparison — Tailcall](https://tailcall.run/graphql/graphql-vs-rest-api-comparison/) *(Article)*
+- [Is GraphQL Better Than REST? — Tailcall](https://tailcall.run/graphql/graphql-vs-rest-api-comparison/) *(Article — link unavailable at time of submission)*
+- [GraphQL vs REST: API Design Patterns and Best Practices — Calmops](https://calmops.com/web/graphql-vs-rest-api-design/) *(Article — substituted for unavailable Tailcall resource)*
 - [GraphQL vs REST: API Showdown — Medium](https://medium.com/@programordie/graphql-vs-rest-api-showdown-fcf11d9c4fe6) *(Article)*
 
 ## Reflection Questions
